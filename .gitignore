@@ -16,6 +16,9 @@ venv/
 env/
 ENV/
 
+# Secrets
+.env.fps
+
 # IDE files
 .idea/
 .vscode/
