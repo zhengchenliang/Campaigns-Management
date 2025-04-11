@@ -1,1 +1,2 @@
- 
+server|user|query|timeout|maxResult|jiraText||j1||.env:1
+https://its.cern.ch/jira|zhliang|project=PRCAMPAIGNS ORDER BY updated DESC, priority DESC|45|100000|./campaignsJira.txt
