@@ -1,0 +1,12 @@
+{
+  "_chart": {
+    "_set": "json2csv",
+    "_key": "j2",
+    "_run": {
+      "1": {
+        "json": "../WmAgentScripts/campaigns.json",
+        "csv": "./campaigns.csv"
+      }
+    }
+  }
+}
